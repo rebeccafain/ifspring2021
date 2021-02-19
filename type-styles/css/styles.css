@@ -1,0 +1,73 @@
+html {
+    color: rgb(255, 255, 255);
+    font-family: 'Raleway', sans-serif;
+    font-size: 14pt;
+  }
+
+  body{
+      margin: 10%;
+      background-color: rgb(255, 155, 155);
+  }
+
+  h1{
+    color: rgba(250, 0, 0, 0.658);
+    text-transform: capitalize;
+    text-indent: -1rem;
+    font-size: 30pt;
+  }
+
+  h2{
+    color: rgb(175, 0, 7);
+    text-transform: capitalize;
+    text-indent: -1rem;
+    font-size: 22pt;
+    font-style:oblique;
+  }
+
+
+  h3{
+    color: rgb(100, 0, 0);
+    text-transform: capitalize;
+    text-indent: -1rem;
+    font-size: 16pt;
+    font-style:inherit;
+    text-decoration: underline overline;
+  }
+
+  h4{
+    color: rgb(25, 0, 0);
+    text-transform: capitalize;
+    text-indent: -1rem;
+    font-size: 15pt;
+    font-style: italic
+
+  }
+
+  p{
+    font-size: 14pt; 
+  }
+
+  aside{
+    margin-left: 10px;
+  }
+
+  /* cite{
+      text-align: left;
+      display: block;
+  }
+
+  article{
+      margin: 6rem 0;
+  }
+
+  section{
+      margin: 2.5rem 0;
+  }
+
+  a{
+      text-decoration: none;
+  }
+
+  code{
+      color: steelblue
+  } */
