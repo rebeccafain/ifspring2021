@@ -1,0 +1,43 @@
+html {
+    color: rgb(255, 255, 255);
+    font-family: 'DotGothic16', sans-serif;
+    font-size: 14pt;
+  }
+
+  body{
+      background-color: rgb(30, 45, 247);
+  }
+
+  h1{
+    color: rgba(250, 0, 0);
+    text-transform: capitalize;
+    font-size: 30pt;
+    letter-spacing: .3em ;
+  }
+
+  h2{
+    color: rgb(171, 81, 255);
+    text-transform: capitalize;
+    font-size: 22pt;
+    font-style:oblique;
+  }
+
+
+  h3{
+    color: rgba(0, 183, 255, 0.459);
+    font-family: sans-serif;
+    text-transform: lowercase;
+    font-size: 12pt;
+  }
+
+  h4{
+    color: rgb(9, 255, 0);
+    text-transform:uppercase;
+    font-size: 16pt;
+    letter-spacing: .1em ;
+  }
+
+
+  aside{
+    text-align: center;
+}
