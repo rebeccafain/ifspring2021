@@ -1,0 +1,27 @@
+
+ body{
+  width: 90%;
+  max-width: 960px;
+  margin-left:auto;
+  margin-right:auto;
+} 
+
+.lemonsquares{
+  width:40%;
+  margin:auto;
+  display:block;
+}
+
+#fixed-size-grid-items aside{
+    font-size: 3 rem;
+    margin: 10px;
+    width: 225px;
+}
+#fixed-size-grid-items ul {
+  list-style: none;
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+
