@@ -1,0 +1,182 @@
+html{
+    font-family: 'Karla', sans-serif;
+    font-size: 16pt;
+}
+
+.panel{
+    padding: 10px;
+} 
+
+.safe-area{
+    border: 1px;
+    width: 950px;
+    margin: auto;
+}
+
+h1{
+    font-family: 'Rubik Mono One', sans-serif;
+    text-align: center;
+}
+
+h2{
+    text-align: left;
+    color: black;
+    font-size: 50px;  
+    margin-top: 0;
+    font-family: 'Rubik Mono One', sans-serif;
+    margin-bottom: 20px;
+} 
+
+h3{
+    text-align: left;
+    font-size: 40px;  
+    margin-top: 20;
+    margin-bottom: 40px;
+} 
+
+h4{
+    text-align: right;
+    color: cornsilk;
+    font-size: 50px;  
+    margin-top: 20;
+    font-family: 'Rubik Mono One', sans-serif;
+    margin-bottom: 20px;
+} 
+
+img.photo {
+    float: right;
+    border: 5px dashed rgb(0, 0, 0);
+    margin: 0px 0px 25px 25px;
+    width: 450px;
+    height: 500px;
+}
+
+img.season {
+    float: left;
+    border: 5px dashed rgb(146, 17, 17);
+    margin: 0px 10px 25px 25px;
+}
+
+/* HEADER */
+
+    header.panel .safe-area{
+        text-align: center;
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
+    header.panel {
+        background-image: url("https://i.pinimg.com/originals/6d/f6/5a/6df65a151e0d909982b6daa2f295b38e.jpg");
+    }
+
+    header.panel h1{
+        font-size: 80px;
+        margin: auto;
+    }
+
+
+/* INTRO */
+    .intro.panel p {
+        text-align: center;
+        width: 800px;
+        margin: auto;
+        font-size: 25px;
+        line-height: 36px;
+        font-family: 'Kalam', cursive;;
+    }
+    
+    .intro.panel {
+        padding-bottom: 100px;
+        background-color: rgb(47, 129, 45);
+    }
+
+    .align {
+    text-align: center;
+}
+
+ /* CAST  */
+    .cast.panel .grid img {
+        width: 170px;
+        height: 220px;
+        float: left;
+        margin-right: 25px;
+    }
+
+    .cast.panel .grid li {
+        display: block;
+        float: left;
+        width: 450px;
+        height: 165px;
+        margin-bottom: 100px;
+        margin-right: 20px;
+    }
+
+    .cast.panel h3 {
+        font-size: 27px;
+        font-family: 'Rubik Mono One', sans-serif;
+        margin-bottom: 5px;
+        margin-top: 75px;
+        color: rgb(47, 129, 45);
+    }
+
+    .cast.panel {
+        padding-bottom: 1100px;
+        background-color: rgb(133,16,16);
+    }
+
+
+/* FILMING  */
+    .filming.panel p {
+        font-size: 20px;
+        letter-spacing: -.003rem;
+    }
+
+    .filming.panel {
+        background-color:cornsilk;
+        padding-bottom: 30px;
+    }
+
+/* SEASON1  */
+    .season1.panel p {
+        font-size: 20px;
+        letter-spacing: -.003rem;
+        color: cornsilk;
+    }
+
+    .season1.panel {
+        background-color:rgba(0, 0, 0, 0.986);
+        padding-bottom: 30px;
+    }
+
+/* SEASON2  */
+    .season2.panel p {
+        font-size: 20px;
+        letter-spacing: -.003rem;
+        color:rgba(0, 0, 0, 0.986);
+    }
+
+    .season2.panel {
+        background-color: cornsilk;
+        padding-bottom: 30px;
+    }
+
+/* SEASON3  */
+    .season3.panel p {
+        font-size: 20px;
+        letter-spacing: -.003rem;
+        color: cornsilk;
+    }
+
+    .season3.panel {
+        padding-bottom: 110px;
+        background-color:rgba(0, 0, 0, 0.986);
+    }
+
+/* FOOTER  */
+    footer p {
+        font-size: 12px;
+        color: cornsilk;
+        margin-top: 1px;
+        float: right;
+    }
+
